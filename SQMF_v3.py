@@ -18,7 +18,7 @@ def retract_stiefel(Q: np.ndarray) -> np.ndarray:
     Qq, R = np.linalg.qr(Q)
     d = np.sign(np.diag(R))
     d[d == 0] = 1.0
-    return Qq * d
+    return Qq @ np.diag(d)
 
 
 def vech_upper(A: np.ndarray) -> np.ndarray:
@@ -327,7 +327,7 @@ def quadratic_manifold_factorization(
     mode: str = "l1",
     armijo_c: float = 1e-2,
     bt_max: int = 20,
-    set_Theta_zero: bool = False
+    set_Theta_zero: bool = False,
     **kwargs
 ):
     """
