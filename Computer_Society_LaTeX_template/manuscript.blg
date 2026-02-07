@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: manuscript.aux
+The style file: unsrt.bst
+Database file #1: sample.bib
+Repeated entry---line 933 of file sample.bib
+ : @article{pascal2013parameter
+ :                             ,
+I'm skipping whatever remains of this entry
+You've used 25 entries,
+            1791 wiz_defined-function locations,
+            590 strings with 7589 characters,
+and the built_in function-call counts, 6319 in all, are:
+= -- 578
+> -- 257
+< -- 7
++ -- 95
+- -- 70
+* -- 409
+:= -- 951
+add.period$ -- 76
+call.type$ -- 25
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 292
+empty$ -- 631
+format.name$ -- 70
+if$ -- 1440
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 32
+newline$ -- 128
+num.names$ -- 25
+pop$ -- 93
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 145
+stack$ -- 0
+substring$ -- 480
+swap$ -- 79
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 60
+width$ -- 27
+write$ -- 272
+(There was 1 error message)

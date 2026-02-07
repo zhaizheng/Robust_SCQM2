@@ -1,0 +1,146 @@
+\begin{thebibliography}{10}
+
+\bibitem{lpca}
+Nanda Kambhatla and Todd Leen.
+\newblock Dimension reduction by local principal component analysis.
+\newblock {\em Neural Computation}, 9:1493--1516, 10 1997.
+
+\bibitem{genovese2014nonparametric}
+Christopher~R Genovese, Marco Perone-Pacifico, Isabella Verdinelli, Larry
+  Wasserman, et~al.
+\newblock Nonparametric ridge estimation.
+\newblock {\em The Annals of Statistics}, 42(4):1511--1545, 2014.
+
+\bibitem{fefferman2018fitting}
+Charles Fefferman, Sergei Ivanov, Yaroslav Kurylev, Matti Lassas, and Hariharan
+  Narayanan.
+\newblock Fitting a putative manifold to noisy data.
+\newblock In {\em Conference On Learning Theory}, pages 688--720, 2018.
+
+\bibitem{ozertem2011locally}
+Umut Ozertem and Deniz Erdogmus.
+\newblock Locally defined principal curves and surfaces.
+\newblock {\em Journal of Machine learning research}, 12(Apr):1249--1286, 2011.
+
+\bibitem{zhai2024quadratic}
+Zheng Zhai, Hengchao Chen, and Qiang Sun.
+\newblock Quadratic matrix factorization with applications to manifold
+  learning.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  46(9):6384--6401, 2024.
+
+\bibitem{zhai2025subspace}
+Zheng Zhai and Xiaohui Li.
+\newblock Subspace-constrained quadratic matrix factorization: Algorithm and
+  applications.
+\newblock {\em Pattern Recognition}, 161:111333, 2025.
+
+\bibitem{liu2010robust}
+Guangcan Liu, Zhouchen Lin, and Yong Yu.
+\newblock Robust subspace segmentation by low-rank representation.
+\newblock In {\em Proceedings of the 27th international conference on machine
+  learning (ICML-10)}, pages 663--670, 2010.
+
+\bibitem{zhang2017low}
+Yongqiang Zhang, Daming Shi, Junbin Gao, and Dansong Cheng.
+\newblock Low-rank-sparse subspace representation for robust regression.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 7445--7454, 2017.
+
+\bibitem{kde}
+Christopher~R. Genovese, Marco Perone-Pacifico, Isabella Verdinelli, and Larry
+  Wasserman.
+\newblock Nonparametric ridge estimation.
+\newblock {\em Annals of Statistics}, 42(4):1511--1545, 2014.
+
+\bibitem{msf}
+Umut Ozertem and Deniz Erdogmus.
+\newblock Locally defined principal curves and surfaces.
+\newblock {\em Journal of Machine Learning Research}, 12:1249--1286, 2011.
+
+\bibitem{mfit}
+Charles Fefferman, Sergei Ivanov, Yaroslav Kurylev, Matti Lassas, and Hariharan
+  Narayanan.
+\newblock Fitting a putative manifold to noisy data.
+\newblock In {\em Conference on Learning Theory}, pages 688--720, 2018.
+
+\bibitem{mls}
+Barak Sober and David Levin.
+\newblock Manifold approximation by moving least-squares projection.
+\newblock {\em Constructive Approximation}, 52(3):433--478, 2020.
+
+\bibitem{chen2025power}
+Hengchao Chen and Zheng Zhai.
+\newblock Power transformed density ridge estimation.
+\newblock {\em IEEE Signal Processing Letters}, 2025.
+
+\bibitem{roenko2014estimation}
+Alexey~A Roenko, Vladimir~V Lukin, I~Djurovi{\'c}, and M~Simeunovi{\'c}.
+\newblock Estimation of parameters for generalized gaussian distribution.
+\newblock In {\em 2014 6th International Symposium on Communications, Control
+  and Signal Processing (ISCCSP)}, pages 376--379. IEEE, 2014.
+
+\bibitem{pascal2013parameter}
+Fr{\'e}d{\'e}ric Pascal, Lionel Bombrun, Jean-Yves Tourneret, and Yannick
+  Berthoumieu.
+\newblock Parameter estimation for multivariate generalized gaussian
+  distributions.
+\newblock {\em IEEE Transactions on Signal Processing}, 61(23):5960--5971,
+  2013.
+
+\bibitem{do2002wavelet}
+Minh~N Do and Martin Vetterli.
+\newblock Wavelet-based texture retrieval using generalized gaussian density
+  and kullback-leibler distance.
+\newblock {\em IEEE transactions on image processing}, 11(2):146--158, 2002.
+
+\bibitem{kotz2012laplace}
+Samuel Kotz, Tomasz Kozubowski, and Krzystof Podgorski.
+\newblock {\em The Laplace distribution and generalizations: a revisit with
+  applications to communications, economics, engineering, and finance}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{strang2022introduction}
+Gilbert Strang.
+\newblock {\em Introduction to linear algebra}.
+\newblock SIAM, 2022.
+
+\bibitem{absil2008optimization}
+P-A Absil, Robert Mahony, and Rodolphe Sepulchre.
+\newblock {\em Optimization algorithms on matrix manifolds}.
+\newblock Princeton University Press, 2008.
+
+\bibitem{bhattacharya2012nonparametric}
+Abhishek Bhattacharya and Rabi Bhattacharya.
+\newblock {\em Nonparametric inference on manifolds: with applications to shape
+  spaces}, volume~2.
+\newblock Cambridge University Press, 2012.
+
+\bibitem{krantz2013implicit}
+Steven~G. Krantz and Harold~R. Parks.
+\newblock {\em The Implicit Function Theorem: History, Theory, and
+  Applications}.
+\newblock Birkh{\"a}user, 2013.
+
+\bibitem{golub2013matrix}
+Gene~H. Golub and Charles~F. Van~Loan.
+\newblock {\em Matrix Computations}.
+\newblock Johns Hopkins University Press, 4th edition, 2013.
+
+\bibitem{nocedal2006numerical}
+Jorge Nocedal.
+\newblock Numerical optimization.
+\newblock {\em Springer Ser. Oper. Res. Financ. Eng./Springer}, 2006.
+
+\bibitem{lecun2002gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, and Patrick Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 2002.
+
+\bibitem{wainwright2019high}
+Martin~J Wainwright.
+\newblock {\em High-dimensional statistics: A non-asymptotic viewpoint},
+  volume~48.
+\newblock Cambridge university press, 2019.
+
+\end{thebibliography}
